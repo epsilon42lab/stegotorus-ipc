@@ -10,3 +10,8 @@
 
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
+
+#binaries
+stegotorus
+stegotorus-ipc-client
+stegotorus-ipc-server
